@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
+
 
 # Set the title of the Streamlit app
 st.title("Exploratory Data Analysis (EDA) App with Interactive Buttons")
